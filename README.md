@@ -16,7 +16,6 @@ Lorenzo Milazzo
 
 ### References
 
-A.B. Chhabra et al., Direct determination of the f(alpha) singularity spectrum and
-its application to fully developed turbulence, Phys. Rev. A 40, 5284–5294 (1989)
+A.B. Chhabra et al., "Direct determination of the f(alpha) singularity spectrum and its application to fully developed turbulence", Phys. Rev. A 40, 5284–5294 (1989)
 
-L. Milazzo, Multifractal analysis of three-dimensional grayscale images: Estimation of generalized fractal dimension and singularity spectrum, arXiv:1310.2719 \[cond-mat.stat-mech\] (2013)
+L. Milazzo, "Multifractal analysis of three-dimensional grayscale images: Estimation of generalized fractal dimension and singularity spectrum", arXiv:1310.2719 \[cond-mat.stat-mech\] (2013)
